@@ -1,0 +1,20 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/jhandiaz30/tp-node#readme",
+  "bugs": {
+    "url": "https://github.com/jhandiaz30/tp-node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhandiaz30/tp-node.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
