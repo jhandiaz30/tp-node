@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "PSG", "country": "France" },
+  { "id": 2, "name": "Real Madrid", "country": "Spain" },
+  { "id": 3, "name": "Manchester City", "country": "England" }
+]

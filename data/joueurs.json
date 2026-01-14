@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "idEquipe": 1,
+    "nom": "Mbappe",
+    "numero": 7,
+    "poste": "Attaquant"
+  },
+  {
+    "id": 2,
+    "idEquipe": 1,
+    "nom": "Marquinhos",
+    "numero": 5,
+    "poste": "Defenseur"
+  },
+  {
+    "id": 3,
+    "idEquipe": 2,
+    "nom": "Bellingham",
+    "numero": 5,
+    "poste": "Milieu"
+  },
+  {
+    "id": 4,
+    "idEquipe": 1,
+    "nom": "Luis DIAZ",
+    "numero": 9,
+    "poste": "Attaquant"
+  }
+]
